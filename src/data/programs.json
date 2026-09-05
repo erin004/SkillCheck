@@ -1,0 +1,20 @@
+{
+  "beginner": {
+    "level": "Beginner",
+    "title": "Kelas Fondasi",
+    "description": "Dirancang untuk kamu yang baru memulai. Materi dimulai dari struktur dasar, kosakata harian, dan latihan percakapan sederhana dengan tempo yang santai.",
+    "duration": "8 minggu, 2x pertemuan per minggu"
+  },
+  "intermediate": {
+    "level": "Intermediate",
+    "title": "Kelas Pengembangan",
+    "description": "Untuk kamu yang sudah memahami dasar tapi masih ragu menggunakannya. Fokus pada penguatan tata bahasa, kelancaran bicara, dan latihan menulis terstruktur.",
+    "duration": "10 minggu, 2x pertemuan per minggu"
+  },
+  "advanced": {
+    "level": "Advanced",
+    "title": "Kelas Pemantapan",
+    "description": "Untuk kamu yang sudah percaya diri dan ingin mengasah ketepatan. Materi mencakup diskusi kompleks, penulisan formal, dan simulasi situasi profesional.",
+    "duration": "6 minggu, 2x pertemuan per minggu"
+  }
+}

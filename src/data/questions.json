@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "question": "Choose the correct sentence.",
+    "options": [
+      "She go to the office every day.",
+      "She goes to the office every day.",
+      "She going to the office every day.",
+      "She gone to the office every day."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "I ___ my homework before dinner yesterday.",
+    "options": ["finish", "finished", "have finished", "finishing"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Which word is closest in meaning to 'rapid'?",
+    "options": ["Slow", "Quiet", "Fast", "Careful"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "By this time next year, I ___ my degree.",
+    "options": ["will complete", "will have completed", "complete", "completed"],
+    "answer": 1
+  },
+  {
+    "id": 5,
+    "question": "Pick the sentence with correct punctuation.",
+    "options": [
+      "Its a nice day, isnt it.",
+      "It's a nice day, isn't it?",
+      "Its' a nice day isnt it?",
+      "It is a nice day isn't it"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 6,
+    "question": "The opposite of 'generous' is ___.",
+    "options": ["Kind", "Stingy", "Wealthy", "Modest"],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "If I ___ more time, I would learn another language.",
+    "options": ["have", "had", "will have", "having"],
+    "answer": 1
+  },
+  {
+    "id": 8,
+    "question": "Choose the sentence in passive voice.",
+    "options": [
+      "The chef cooked the meal.",
+      "The meal was cooked by the chef.",
+      "The chef is cooking the meal.",
+      "The chef will cook the meal."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Which sentence uses 'affect' correctly?",
+    "options": [
+      "The weather can affect your mood.",
+      "The weather can effect your mood.",
+      "The weather can affects your mood.",
+      "The weather can be affect your mood."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "question": "She has been working here ___ 2019.",
+    "options": ["for", "since", "during", "at"],
+    "answer": 1
+  },
+  {
+    "id": 11,
+    "question": "Choose the correctly formed question.",
+    "options": [
+      "Where you are going?",
+      "Where are you going?",
+      "Where do you going?",
+      "Where you going?"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Which word does NOT belong with the others?",
+    "options": ["Apple", "Banana", "Carrot", "Mango"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "He suggested ___ the meeting until Friday.",
+    "options": ["to postpone", "postponing", "postpone", "postponed"],
+    "answer": 1
+  },
+  {
+    "id": 14,
+    "question": "Choose the sentence with correct subject-verb agreement.",
+    "options": [
+      "The list of items are on the table.",
+      "The list of items is on the table.",
+      "The list of items were on the table.",
+      "The list of items be on the table."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "Read: \"Although the exam was difficult, most students passed.\" What does this imply?",
+    "options": [
+      "The exam was easy.",
+      "Most students failed.",
+      "Despite the difficulty, the result was still good.",
+      "No one attempted the exam."
+    ],
+    "answer": 2
+  }
+]
